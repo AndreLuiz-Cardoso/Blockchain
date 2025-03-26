@@ -78,7 +78,7 @@ Wallet generated
 Address:      2N9XkY...   (SegWit-compatible testnet address)
 Private Key:  cU9sTz...   (WIF format)
 Seed:         turtle lava drop talent ... voice
-
+```
 ---
 
 ## 🧪 Use Cases
