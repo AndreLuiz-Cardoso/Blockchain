@@ -53,17 +53,21 @@ All outputs are printed in the console, ready for use in testing environments or
 
 ```bash
 git clone https://github.com/your-username/bitcoin-wallet-generator.git
-cd bitcoin-wallet-generator
+cd bitcoin-wallet-generator ``` 
 
+---
 ### 2. Install dependencies
 
 ```bash
-npm install bip32 bip39 bitcoinjs-lib
+npm install bip32 bip39 bitcoinjs-lib ```
+
+---
 
 ### 3. Run the script
 ```bash
-node createwallet.js
+node createwallet.js ```
 
+---
 ## 📋 Output Example
 
 ```
